@@ -2,7 +2,7 @@
 #
 # Project Name:	 unshac.py
 # File:					 unshac.py
-# Author:	       Frederik Klama
+# Author:	       Nina Alexandra Klama
 # License:       GPL v3 (see included LICENSE file)
 #
 # This script is supposed to unify the shell environment on several machines,
